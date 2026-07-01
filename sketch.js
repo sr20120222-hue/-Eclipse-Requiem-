@@ -123,8 +123,7 @@ function keyPressed() {
       storyIndex++;
     }
   }
-}
-let gameState = "title"; 
+}let gameState = "title"; 
 let playerName = "";
 let storyIndex = 0;
 
